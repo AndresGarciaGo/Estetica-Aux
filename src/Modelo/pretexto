@@ -1,0 +1,7 @@
+package Modelo;
+
+public class pretexto {
+
+		int a =5;
+		int b = 6;
+}
